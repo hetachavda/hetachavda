@@ -1,7 +1,6 @@
 
    <h1 align="center">Hi 👋, I'm Heta Chavda</h1> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h2>
-<h3 align="center">🎓 Data Analyst | Master’s Student in Data Analytics 
-              @ University of Niagara Falls (ON)</h3>
+<h3 align="center">🎓 Data Analyst | Master's in Data Analytics, works at Amazon (ON)</h3>
                
    ****             
    <h3 align="center"> 💻 SQL • Python • Power BI • Tableau • ETL • Machine Learning • Optimization</h3>
