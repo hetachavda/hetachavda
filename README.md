@@ -11,7 +11,7 @@
   - 📫 Reach me at: **hetachavda16@gmail.com**  
   - 👨‍💻 All of my projects are available at [github.com/hetachavda](https://www.github.com/hetachavda)
 
-              
+
 ###  Let's Connect
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/hetachavda)  
   [![Email](https://img.shields.io/badge/Email-hetachavda16@gmail.com-red)](mailto:hetachavda16@gmail.com)
@@ -24,3 +24,7 @@
 - **Machine Learning:** Regression | Classification | Forecasting | NLP | Optimization Modeling  
 ---
 ✨ *Passionate about turning raw data into actionable insights that drive smarter business decisions!*  
+## 📊 GitHub Stats
+
+![Heta's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hetachavda&show_icons=true&theme=tokyonight)![GitHub Streak](https://streak-stats.demolab.com?user=hetachavda&theme=tokyonight)
+
