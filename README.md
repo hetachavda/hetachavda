@@ -26,5 +26,18 @@
 ✨ *Passionate about turning raw data into actionable insights that drive smarter business decisions!*  
 ## 📊 GitHub Stats
 
-![Heta's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hetachavda&show_icons=true&theme=tokyonight)![GitHub Streak](https://streak-stats.demolab.com?user=hetachavda&theme=tokyonight)
+<table>
+<tr>
+<td>
+
+<img src="https://github-readme-stats.vercel.app/api?username=hetachavda&show_icons=true&theme=tokyonight" />
+
+</td>
+<td>
+
+<img src="https://streak-stats.demolab.com?user=hetachavda&theme=tokyonight" />
+
+</td>
+</tr>
+</table>
 
