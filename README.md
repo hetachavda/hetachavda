@@ -14,7 +14,8 @@
 
 ###  Let's Connect
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/hetachavda)  
-  [![Email](https://img.shields.io/badge/Email-hetachavda16@gmail.com-red)](mailto:hetachavda16@gmail.com)
+  [![Email](https://img.shields.io/badge/Email-hetachavda16@gmail.com-red)](mailto:hetachavda16@gmail.com) 
+
 ---
 
 ## 🛠️ Tech Stack  
@@ -24,6 +25,8 @@
 - **Machine Learning:** Regression | Classification | Forecasting | NLP | Optimization Modeling  
 ---
 ✨ *Passionate about turning raw data into actionable insights that drive smarter business decisions!*  
+
+
 ## 📊 GitHub Stats
 
 <table>
@@ -40,4 +43,8 @@
 </td>
 </tr>
 </table>
+<h3 align="center">👋 Thanks for visiting my profile!</h3>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=hetachavda&label=PROFILE+VIEWS&color=0891b2&style=for-the-badge"/>
+</p>
