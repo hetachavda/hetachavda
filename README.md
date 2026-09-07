@@ -32,7 +32,7 @@ I'm a data analytics professional who enjoys transforming complex datasets into 
 
 ---
 
-## 🛠️ Tech Stack
+## 🏆 Tech Stack
 
 | Domain                    | Tools                                                                  |
 | ------------------------- | ---------------------------------------------------------------------- |
@@ -46,7 +46,7 @@ I'm a data analytics professional who enjoys transforming complex datasets into 
 
 ---
 
-## 🚀 Featured Projects
+## 🏆 Featured Projects
 
 A selection of projects demonstrating practical experience in **data analysis, business intelligence, predictive modeling, visualization, database design, and optimization**.
 
@@ -126,8 +126,8 @@ Developed an optimization model for public transportation scheduling using Googl
 
 <div align="center">
 
-### 💡 "Without data, you're just another person with an opinion."
+### "Without data, you're just another person with an opinion."
 
-⭐ *Explore my projects and feel free to connect with me on LinkedIn.*
+ *Explore my projects and feel free to connect with me on LinkedIn.*
 
 </div>
