@@ -23,7 +23,7 @@
 
 ## 🎯 About Me
 
-I'm a data analytics professional who enjoys transforming complex datasets into clear, actionable business insights. I work across the analytics lifecycle — from **SQL querying and Python analysis** to **Power BI and Tableau dashboards** — helping stakeholders understand performance, identify trends, and make informed decisions.
+I'm a data analytics professional who enjoys transforming complex datasets into clear, actionable business insights. I work across the analytics lifecycle - from **SQL querying and Python analysis** to **Power BI and Tableau dashboards** - helping stakeholders understand performance, identify trends, and make informed decisions.
 
 * 🔭 Focused on **data analytics, business intelligence, predictive analytics, and reporting**
 * 📊 Experienced with **Power BI, SQL, Python, Tableau, and Excel**
