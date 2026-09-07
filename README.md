@@ -124,18 +124,6 @@ Developed an optimization model for public transportation scheduling using Googl
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-![Heta's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hetachavda\&show_icons=true\&theme=tokyonight\&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hetachavda\&layout=compact\&theme=tokyonight\&hide_border=true)
-
-</div>
-
----
-
 <div align="center">
 
 ### 💡 "Without data, you're just another person with an opinion."
