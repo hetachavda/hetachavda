@@ -100,12 +100,12 @@ Designed a fully normalized relational database for **8+ dealership entities** a
 
 # 📂 Additional Projects
 
-| Project                                                                                                                                                               | Focus                                      | Technologies              |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------ | ------------------------- |
-| **[Housing & Bike-Sharing Analytics](https://github.com/hetachavda/Predictive-Analysis-with-Housing-Prices-Dataset-Prescriptive-Analysis-with-Bike-Sharing-Dataset)** | Predictive and prescriptive analytics      | `Python` `Power BI`       |
-| **[Urban Public Transit Route Optimization](https://github.com/hetachavda/Route-Optimization-of-Urban-Public-Transportation)**                                        | Transportation scheduling and optimization | `Python` `OR-Tools`       |
-| **[End-to-End Python Data Analysis](https://github.com/hetachavda/Python-Data-Analysis-Project)**                                                                     | Data cleaning, EDA and analytical modeling | `Python` `Pandas`         |
-| **[Customer Behavior Models](https://github.com/hetachavda/Evaluating-Customer-Behavior-Using-Regression-Classification-and-Clustering-Models)**                      | Regression, classification and clustering  | `Python` `SQL` `Power BI` |
-| **[Uber vs Lyft Comparative Analysis](https://github.com/hetachavda/Uber-VS-Lyft-Comparative-Analysis-A-Data-Driven-Method)**                                         | Statistical analysis of ~650K ride records | `Python` `Statistics`     |
-| **[PESTEL Analysis — Ethanol Blending](https://github.com/hetachavda/PESTEL-Analysis-of-Ethanol-Blending-Programme-in-India)**                                        | Policy, economic and strategic analytics   | `Python` `Analytics`      |
-| **[Ethics in Prescriptive Analytics](https://github.com/hetachavda/Ethical-Considerations-in-Prescriptive-Analytics-)**                                               | Responsible analytics and data privacy     | `Optimization`            |
+| Project | Focus | Technologies |
+| --- | --- | --- |
+| **[Housing & Bike-Sharing Analytics](https://github.com/hetachavda/Predictive-Analysis-with-Housing-Prices-Dataset-Prescriptive-Analysis-with-Bike-Sharing-Dataset)** | Predictive and prescriptive analytics | `Python` `Power BI` |
+| **[Urban Public Transit Route Optimization](https://github.com/hetachavda/Route-Optimization-of-Urban-Public-Transportation)** | Transportation scheduling and optimization | `Python` `OR-Tools` |
+| **[End-to-End Python Data Analysis](https://github.com/hetachavda/Python-Data-Analysis-Project)** | Data cleaning, EDA and analytical modeling | `Python` `Pandas` |
+| **[Customer Behavior Models](https://github.com/hetachavda/Evaluating-Customer-Behavior-Using-Regression-Classification-and-Clustering-Models)** | Regression, classification and clustering | `Python` `SQL` `Power BI` |
+| **[Uber vs Lyft Comparative Analysis](https://github.com/hetachavda/Uber-VS-Lyft-Comparative-Analysis-A-Data-Driven-Method)** | Statistical analysis of ~650K ride records | `Python` `Statistics` |
+| **[PESTEL Analysis — Ethanol Blending](https://github.com/hetachavda/PESTEL-Analysis-of-Ethanol-Blending-Programme-in-India)** | Policy, economic and strategic analytics | `Python` `Analytics` |
+| **[Ethics in Prescriptive Analytics](https://github.com/hetachavda/Ethical-Considerations-in-Prescriptive-Analytics-)** | Responsible analytics and data privacy | `Optimization` |
