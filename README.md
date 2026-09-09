@@ -1,54 +1,69 @@
 <div align="center">
 
-# Hi, I'm Heta Chavda 👋
+# Heta Chavda 📫
 
-### 📊 Data Analyst | Business Intelligence | SQL • Power BI • Python
+### 📊 Data Analyst | Power BI | SQL | Dashboard Development | Data Validation
 
-*Turning raw data into decisions that move the business.*
+*Turning raw data into actionable business insights.*
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge\&logo=tableau\&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
+![Python](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge\&logo=microsoftexcel\&logoColor=white)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/hetachavda)
-[![GitHub](https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://hetachavda.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/hetachavda/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://hetachavda.github.io/)
+[![GitHub](https://img.shields.io/badge/GitHub-Projects-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/hetachavda)
 
 </div>
 
 ---
 
-## 🎯 About Me
+# Education ✨
 
-I'm a data analytics professional who enjoys transforming complex datasets into clear, actionable business insights. I work across the analytics lifecycle - from **SQL querying and Python analysis** to **Power BI and Tableau dashboards** - helping stakeholders understand performance, identify trends, and make informed decisions.
-
-* 🔭 Focused on **data analytics, business intelligence, predictive analytics, and reporting**
-* 📊 Experienced with **Power BI, SQL, Python, Tableau, and Excel**
-* 🌱 Continuously improving my skills in **data modeling, automation, visualization, and machine learning**
-* 💬 Interested in solving business problems through data-driven analysis
+* **Master of Data Analytics**, University of Niagara Falls, Canada (Oct. 2024 - Apr. 2026)
+* **Master of Commerce, Advanced Accounting**, Sardar Patel University, India (Jul. 2019 - Jul. 2021)
 
 ---
 
-## 🏆 Tech Stack
+# Experience ⚡⚡⚡
 
-| Domain                    | Tools                                                                  |
-| ------------------------- | ---------------------------------------------------------------------- |
-| **Languages**             | Python, SQL                                                            |
-| **Business Intelligence** | Power BI, Tableau, Excel                                               |
-| **ML / Analytics**        | scikit-learn, Predictive Modeling, Clustering, Regression, Time-Series |
-| **Data Wrangling**        | Pandas, NumPy, Power Query                                             |
-| **Visualization**         | Power BI, Tableau, Matplotlib, Seaborn                                 |
-| **Optimization**          | Google OR-Tools, Linear / Integer Programming                          |
-| **Databases**             | MySQL, Relational Design, Data Modeling, 3NF                           |
+* **Data Analyst Co-op**, Sense of Beauty Spa & Brow Bar, Niagara Falls, ON (Sep. 2025 - Dec. 2025)
+* **Student Data Analyst**, University of Niagara Falls, Niagara Falls, ON (Apr. 2025 - Jul. 2025)
+* **Data Analyst**, Anblicks, Ahmedabad, India (Apr. 2023 - Sep. 2024)
+* **Associate Data Analyst - Client: CCIL/RBI**, Munimshree Accounting & Tax Services, Dakor, India (Aug. 2021 - Mar. 2023)
 
 ---
 
-## 🏆 Featured Projects
+# Technical Skills 🔭
 
-A selection of projects demonstrating practical experience in **data analysis, business intelligence, predictive modeling, visualization, database design, and optimization**.
+* **Languages:** Python, SQL
+* **Data Visualization:** Power BI, Tableau, Looker Studio
+* **Data Analysis & Reporting:** Power BI (DAX, Power Query), Advanced Excel (PivotTables, Formulas, Charts, Data Validation)
+* **Databases & Query:** SQL, MySQL, Snowflake, Relational Databases
+* **Data Collection & Validation:** Multi-source Data Collection, Data Consolidation, Data Validation, Data Accuracy & Consistency
+* **Data Engineering & ETL:** Azure Data Factory (ADF), ETL, Automated Data Pipelines
+* **Digital Analytics:** Google Analytics 4 (GA4), Google Tag Manager
+* **Libraries:** Pandas, NumPy, Matplotlib, scikit-learn
+* **Analytics:** Predictive Modeling, Regression, Classification, Clustering, Time-Series Analysis, Statistical Testing
+* **Business Analysis:** Requirements Gathering, Process Improvement, KPI Reporting, Root-Cause Analysis, Stakeholder Communication
+* **Developer & Collaboration Tools:** Git, GitHub, JIRA
+
+---
+
+# Featured Projects 🏆
+
+### 🌫️ PM2.5 Air Pollution Analysis & Prediction
+
+**Python · Power BI · Linear Regression · Random Forest · ARIMA/SARIMA**
+
+Engineered an end-to-end analytics pipeline using NAPS air-quality data from 2020–2023. Built and compared predictive models to forecast PM2.5 levels and developed interactive Power BI dashboards to identify high-risk regions.
+
+[View Project →](https://github.com/hetachavda/pm25-capstone-jupyter)
+
+---
 
 ### 🏦 Bank Loan Repayment Analysis
 
@@ -70,7 +85,7 @@ Analyzed application ratings and customer reviews to identify factors associated
 
 ---
 
-### 🎯 Marketing Segmentation Analysis
+### 🎯 Customer Marketing Segmentation
 
 **Python · K-Means · Excel · Customer Analytics**
 
@@ -90,37 +105,37 @@ Built an interactive Tableau analysis of **14.8K+ electric vehicle registrations
 
 ---
 
-### 🏠 Housing & Bike-Sharing Analytics
+### 🚗 Car Dealership Database System
 
-**Python · Power BI · Predictive Analytics · Prescriptive Analytics**
+**MySQL · SQL · Database Design · 3NF**
 
-Combined predictive modeling and business intelligence to analyze housing prices and bike-sharing demand. Developed Power BI visualizations to communicate patterns, analytical results, and decision-oriented insights.
+Designed a fully normalized relational database for **8+ dealership entities** and developed SQL queries using JOINs, aggregations, and GROUP BY to analyze sales performance and support future forecasting.
 
-[View Project →](https://github.com/hetachavda/Predictive-Analysis-with-Housing-Prices-Dataset-Prescriptive-Analysis-with-Bike-Sharing-Dataset)
-
----
-
-### 🚦 Urban Public Transit Route Optimization
-
-**Python · Google OR-Tools · Mixed-Integer Programming**
-
-Developed an optimization model for public transportation scheduling using Google OR-Tools, applying mixed-integer programming to evaluate operational constraints and improve resource allocation.
-
-[View Project →](https://github.com/hetachavda/Route-Optimization-of-Urban-Public-Transportation)
+[View Project →](https://github.com/hetachavda/Database-design-Implementation)
 
 ---
 
-## 📂 Additional Projects
+# 📂 Additional Projects
 
-| Project                                                                                                                                          | Focus                                                            | Technologies              |
-| ------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------- | ------------------------- |
-| **[PM2.5 Air Quality Forecasting](https://github.com/hetachavda/pm25-capstone-jupyter)**                                                         | Time-series forecasting and environmental analytics              | `Python` `ARIMA`          |
-| **[End-to-End Python Data Analysis](https://github.com/hetachavda/Python-Data-Analysis-Project)**                                                | Data cleaning, EDA and analytical modeling                       | `Python` `Pandas`         |
-| **[Customer Behavior Models](https://github.com/hetachavda/Evaluating-Customer-Behavior-Using-Regression-Classification-and-Clustering-Models)** | Regression, classification and clustering                        | `Python` `SQL` `Power BI` |
-| **[Car Dealership Database System](https://github.com/hetachavda/Database-design-Implementation)**                                               | Relational database design with 9 entities and 3NF normalization | `MySQL` `SQL`             |
-| **[Uber vs Lyft Comparative Analysis](https://github.com/hetachavda/Uber-VS-Lyft-Comparative-Analysis-A-Data-Driven-Method)**                    | Statistical analysis of approximately 650K ride records          | `Python` `Statistics`     |
-| **[PESTEL Analysis — Ethanol Blending](https://github.com/hetachavda/PESTEL-Analysis-of-Ethanol-Blending-Programme-in-India)**                   | Policy, economic and strategic analytics                         | `Python` `Analytics`      |
-| **[Ethics in Prescriptive Analytics](https://github.com/hetachavda/Ethical-Considerations-in-Prescriptive-Analytics-)**                          | Responsible analytics, optimization and data privacy             | `Optimization`            |
+| Project                                                                                                                                                               | Focus                                      | Technologies              |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------ | ------------------------- |
+| **[Housing & Bike-Sharing Analytics](https://github.com/hetachavda/Predictive-Analysis-with-Housing-Prices-Dataset-Prescriptive-Analysis-with-Bike-Sharing-Dataset)** | Predictive and prescriptive analytics      | `Python` `Power BI`       |
+| **[Urban Public Transit Route Optimization](https://github.com/hetachavda/Route-Optimization-of-Urban-Public-Transportation)**                                        | Transportation scheduling and optimization | `Python` `OR-Tools`       |
+| **[End-to-End Python Data Analysis](https://github.com/hetachavda/Python-Data-Analysis-Project)**                                                                     | Data cleaning, EDA and analytical modeling | `Python` `Pandas`         |
+| **[Customer Behavior Models](https://github.com/hetachavda/Evaluating-Customer-Behavior-Using-Regression-Classification-and-Clustering-Models)**                      | Regression, classification and clustering  | `Python` `SQL` `Power BI` |
+| **[Uber vs Lyft Comparative Analysis](https://github.com/hetachavda/Uber-VS-Lyft-Comparative-Analysis-A-Data-Driven-Method)**                                         | Statistical analysis of ~650K ride records | `Python` `Statistics`     |
+| **[PESTEL Analysis — Ethanol Blending](https://github.com/hetachavda/PESTEL-Analysis-of-Ethanol-Blending-Programme-in-India)**                                        | Policy, economic and strategic analytics   | `Python` `Analytics`      |
+| **[Ethics in Prescriptive Analytics](https://github.com/hetachavda/Ethical-Considerations-in-Prescriptive-Analytics-)**                                               | Responsible analytics and data privacy     | `Optimization`            |
+
+---
+
+# Certifications 🎓
+
+* **Google Data Analytics Professional Certificate** — In Progress
+* **Bloomberg Market Concepts (BMC)** — Bloomberg
+* **SQL** — HackerRank
+* **Databricks Fundamentals**
+* **Introduction to JIRA**
 
 ---
 
@@ -128,6 +143,6 @@ Developed an optimization model for public transportation scheduling using Googl
 
 ### "Without data, you're just another person with an opinion."
 
- *Explore my projects and feel free to connect with me on LinkedIn.*
+*Explore my projects and feel free to connect with me on LinkedIn.*
 
 </div>
