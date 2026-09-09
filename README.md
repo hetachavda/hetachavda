@@ -109,3 +109,20 @@ Designed a fully normalized relational database for **8+ dealership entities** a
 | **[Uber vs Lyft Comparative Analysis](https://github.com/hetachavda/Uber-VS-Lyft-Comparative-Analysis-A-Data-Driven-Method)** | Statistical analysis of ~650K ride records | `Python` `Statistics` |
 | **[PESTEL Analysis — Ethanol Blending](https://github.com/hetachavda/PESTEL-Analysis-of-Ethanol-Blending-Programme-in-India)** | Policy, economic and strategic analytics | `Python` `Analytics` |
 | **[Ethics in Prescriptive Analytics](https://github.com/hetachavda/Ethical-Considerations-in-Prescriptive-Analytics-)** | Responsible analytics and data privacy | `Optimization` |
+
+<div align="center">
+
+## 🤝 Let's Connect
+
+### It's time to schedule the interview! 🚀
+
+I'm open to **Data Analyst,and Business Analyst opportunities** where I can turn complex data into actionable business insights.
+
+📧 **Email:** [hetachavda16@gmail.com](mailto:hetachavda16@gmail.com)
+💼 **LinkedIn:** [linkedin.com/in/hetachavda](https://www.linkedin.com/in/hetachavda/)
+🌐 **Portfolio:** [hetachavda.github.io](https://hetachavda.github.io/)
+
+**Let's turn data into decisions.**
+
+</div>
+
